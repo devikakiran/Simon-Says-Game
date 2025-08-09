@@ -1,28 +1,30 @@
-# Simon Says Game
+# 🎮 Simon Says Game
 
-##  Overview
-This is a simple **Simon Says** memory game built using **Python's Tkinter** library. The game challenges the player to remember and repeat an increasingly long sequence of colors.
+## 📌 Overview
+A simple **Simon Says** memory game built with **Python's Tkinter** library.  
+The challenge: remember and repeat an increasingly long sequence of colors.
 
 ---
 
-##  How to Play
+## 🕹 How to Play
 1. **Start the Game:** Click the **Start** button.
-2. **Watch the Pattern:** The game will flash a sequence of colored buttons.
+2. **Watch the Pattern:** Buttons will flash in a sequence.
 3. **Repeat the Pattern:** Click the buttons in the same order as shown.
-4. **Level Up:** If you get the sequence correct, a new color is added and the level increases.
-5. **Game Over:** If you click the wrong color, the game ends, and you can restart.
+4. **Level Up:** If correct, a new color is added to the pattern.
+5. **Game Over:** If wrong, the game ends — restart to play again.
 
+---
 
-
-## Requirements
+## 📦 Requirements
 - Python 3.x
-- Tkinter (comes pre-installed with most Python distributions)
+- Tkinter (usually pre-installed with Python)
 
+---
 
 ## ▶ How to Run
-1. Save the file as `simm.py`.
-2. Open a terminal or command prompt.
+1. Save the file (e.g., `game.py`).
+2. Open terminal/command prompt in the file location.
 3. Run:
    ```bash
-   python simm.py
-# Simon-Says-Game
+   python game.py
+
